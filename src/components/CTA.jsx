@@ -35,7 +35,7 @@ export default function CTA() {
               Book a Call
             </Button>
             <a
-              href="mailto:tyvico.tech@gmail.com"
+              href="mailto:info@tyvico.com"
               className="text-sm font-medium no-underline transition-colors duration-200 hover:opacity-80"
               style={{ color: 'var(--text-secondary)' }}
             >

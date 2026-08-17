@@ -71,11 +71,11 @@ export default function Footer() {
             <ul className="space-y-2.5 list-none p-0 m-0">
               <li>
                 <a
-                  href="mailto:tyvico.tech@gmail.com"
+                  href="mailto:info@tyvico.com"
                   className="text-sm no-underline transition-colors duration-200 hover:opacity-80"
                   style={{ color: 'var(--text-secondary)' }}
                 >
-                  tyvico.tech@gmail.com
+                  info@tyvico.com
                 </a>
               </li>
               <li>

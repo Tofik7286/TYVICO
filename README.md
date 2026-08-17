@@ -4,7 +4,7 @@
 
 Landing page for TYVICO — an AI-first IT services company offering website development, application development, custom software, SaaS development, AI solutions, and digital marketing.
 
-🔗 **Live:** [tyvico.com](https://tyvico.com) · 📧 tyvico.tech@gmail.com · 💬 [WhatsApp](https://wa.me/917048786234)
+🔗 **Live:** [tyvico.com](https://tyvico.com) · 📧 info@tyvico.com · 💬 [WhatsApp](https://wa.me/917048786234)
 
 ---
 
@@ -84,7 +84,7 @@ public/
 
 ## Contact
 
-- **Email:** tyvico.tech@gmail.com
+- **Email:** info@tyvico.com
 - **WhatsApp:** +91 7048786234
 - **Location:** Ahmedabad, India
 
