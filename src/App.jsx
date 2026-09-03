@@ -9,6 +9,7 @@ import Work from './components/Work';
 import About from './components/About';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
+import { Analytics } from '@vercel/analytics/react';
 
 /**
  * TYVICO Landing Page
@@ -51,6 +52,8 @@ export default function App() {
         <CTA />
       </main>
       <Footer />
+      <Analytics />
+
     </>
   );
 }
